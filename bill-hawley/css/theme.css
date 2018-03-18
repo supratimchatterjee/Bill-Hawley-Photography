@@ -1,0 +1,22 @@
+/*==Typography==*/
+/*==End==*/
+
+/*==Global==*/
+ul { list-style: none; }
+nav.uk-navbar { background: #fff; }
+.uk-navbar-nav > li > a {  height:50px; line-height: 50px; margin-top: 25px; }
+.uk-dropdown-navbar { margin-top: 1px; }
+
+/*==End==*/
+
+/*==Utility classes==*/
+.tm-clients figcaption { padding: 35px; background-color:#F4F4F4; }
+.tm-clientl-list li { font-weight: bold; padding-bottom: 10px; }
+.tm-logo { width: 130px; }
+.tm-primary-menu > li { padding-bottom: 10px; }
+.tm-primary-menu > li:first-child { padding-bottom: 60px; }
+.tm-primary-menu li a { color: rgb(60, 55, 55); font-size: 16px; font-weight: bold;  }
+.tm-primary-menu li:first-child a { font-weight: normal; }
+.tm-primary-menu li a:hover { text-decoration: none; }
+
+.tm-primary-menu ul li:hover a { background: none; color: #8AC289; }
